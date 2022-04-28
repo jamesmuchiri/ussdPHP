@@ -1,0 +1,9 @@
+{
+    "name": "africastalking-example",
+    "description": "Simple SDK usage",
+    "require": {
+        "php": ">=8.1.5",
+        "africastalking/africastalking": "dev-develop",
+        "altorouter/altorouter": "1.1.0"
+    }
+}
